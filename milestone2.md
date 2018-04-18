@@ -9,6 +9,11 @@ This storyboard explains some of the many ways our hiking application can be use
 
 ![unnamed](https://user-images.githubusercontent.com/7214905/38912068-18fbd00c-4288-11e8-83df-895260315c62.jpg)
 
+Storyboard 2:
+
+In part 1 of the storyboard, the user can see their hiking history, which includes what trails they have completed and what distance. This allows them to estimate their trail stamina. In part 2 of the storyboard, the user can see what trails they can attempt in the future, showing both the trail and the difficulty level of said trail (measured in length and elevation). In part 3 of the storyboard, the user can see their completion time for each trail as well which attempt it was so they can compare to their past performance. In part 4 of the storyboard, the user can see where they are while on the trail. In part 5 of the storyboard, the user can see the opinions of other users on certain trails to see if it is one they are interested in. In part 6 of the storyboard, the user can see who is the best hiker for certain trails based on completion time. 
+
+<img width="640" alt="ms2" src="https://user-images.githubusercontent.com/18273959/38915894-33227c80-429a-11e8-8087-0ed4a9aca831.png">
 
 Paper Prototype 1: 
 
