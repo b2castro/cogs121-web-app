@@ -3,6 +3,13 @@
  Team Members: Bryle Castro, Hansol You, Julian Leung, Karanbir Bains
 
 
+Story Board 1: 
+
+This storyboard explains some of the many ways our hiking application can be used. Our applications is meant for those who want to explore nature and go on great hikes. This application allows the user to not only see what markers are along the hike that other users have added so hikers can compare trails. Not only will they be able to compare trails but they would also be able to see how far certain markers are so they don’t have to do the whole trail they can visit a certain marker and come back. Along the hike the application also allows users to add markers of their own that other users can then like and comment on. Additionally, users can time how long it took them to complete the hike and compare it with other users. 
+
+![unnamed](https://user-images.githubusercontent.com/7214905/38912068-18fbd00c-4288-11e8-83df-895260315c62.jpg)
+
+
 Paper Prototype 1: 
 
 Other than the login and sign up page, this prototype has four main components: the user's profile page, the page that the
