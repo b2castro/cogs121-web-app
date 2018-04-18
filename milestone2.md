@@ -27,3 +27,8 @@ more details about the hike as well the comments other users have posted about t
 will tell the app that the user has began hiking on the trail and will begin tracking the user.
 
 ![prototypeone](https://user-images.githubusercontent.com/7214905/38851251-d203c4ac-41c9-11e8-8254-c08d97089f13.jpg)
+
+
+Paper Prototype 2:
+
+![untitled-1](https://user-images.githubusercontent.com/11530423/38934506-caf7331c-42d0-11e8-9f3b-64dd1631945b.png)
